@@ -1,5 +1,5 @@
 # My Hyprland Setup
-![Screenshot](screenshots/preview.png)
+![Screenshot](hyprland-dots/screenshots/preview.png)
 
 ## Features
 - Hyprland with animations
